@@ -40,7 +40,7 @@ long long fork_join_suma(const std::vector<int>& lista, int num_hilos) {
 
 int main() {
     // Crear una lista de números
-    int num_elementos = 1000; // 1000 elementos
+    int num_elementos = 100; // 1000 elementos
     std::vector<int> lista(num_elementos);
     
     // Rellenar la lista con valores del 1 al num_elementos
